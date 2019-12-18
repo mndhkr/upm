@@ -12,12 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="416bd82c-ceba-4215-96af-2a0d89938616" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities.c" beforeDir="false" afterPath="$PROJECT_DIR$/utilities.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities.h" beforeDir="false" afterPath="$PROJECT_DIR$/utilities.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="language.cpp" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,7 +79,7 @@
       <workItem from="1576246291667" duration="9640000" />
       <workItem from="1576318298530" duration="3179000" />
       <workItem from="1576342439674" duration="3178000" />
-      <workItem from="1576660861498" duration="3438000" />
+      <workItem from="1576660861498" duration="3789000" />
     </task>
     <servers />
   </component>
@@ -91,14 +87,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="298" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576664554117">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="298" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1576664554117" />
     <state x="573" y="254" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576249258950">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="573" y="254" width="524" height="495" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1576249258950" />
-    <state x="344" y="139" key="SettingsEditor" timestamp="1576091970991">
+    <state x="344" y="139" key="SettingsEditor" timestamp="1576664532743">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="344" y="139" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1576091970991" />
+    <state x="344" y="139" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1576664532743" />
     <state x="523" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1576342439621">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
