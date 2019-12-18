@@ -24,7 +24,7 @@ string merge(char** argv, int from, int argc)
     return merged;
 }
 
-Options set_options(char** argv, int argc) {
+Options get_options(char** argv, int argc) {
 
     Options options;
 

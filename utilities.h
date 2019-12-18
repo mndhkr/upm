@@ -12,3 +12,4 @@ typedef struct options Options;
 
 string merge(char** argv, int from, int argc);
 
+Options get_options(char** argv, int argc);

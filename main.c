@@ -9,9 +9,6 @@
 #include "Systems/APT.h"
 #include "Systems/Portage.h"
 
-// UTILS
-#include "utilities.h"
-
 // THIS
 #include "Commands/help.h"
 
@@ -34,6 +31,8 @@ int main(int argc, char** argv) {
     string system_name = get_system_name();
 
     string command = argv[1];
+
+    Options options = get_options(argv, argc);
 
     string packages = merge(argv, 2, argc);
 
@@ -78,7 +77,7 @@ int main(int argc, char** argv) {
             emerge_search(packages, 0);
         }
         if(strcmp(command, "install") == 0) {
-            emerge_install(packages);
+            emerge_install(packages, options);
         }
         if(strcmp(command, "clean") == 0) {
             emerge_depclean();
@@ -87,10 +86,10 @@ int main(int argc, char** argv) {
             emerge_unmerge(packages);
         }
         if(strcmp(command, "sync") == 0) {
-            emerge_sync(0);
+            emerge_sync(options);
         }
         if(strcmp(command, "update") == 0) {
-            emerge_update_packages(packages);
+            emerge_update_packages(packages, options);
         }
         if(strcmp(command, "upgradable") == 0) {
             emerge_list_updatable();

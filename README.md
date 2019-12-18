@@ -57,6 +57,10 @@ search
 install
 sync
 upgrade
+upgradable
+remove / uninstall
+clean
+download
 
 DNF:
 to be done.
