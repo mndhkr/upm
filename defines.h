@@ -1,0 +1,7 @@
+
+// RETURN VALUES
+
+#define CANT_CALL_GREP_WITH_POPEN -1
+#define NO_COMMAND_GIVEN 0
+
+#define OK 1

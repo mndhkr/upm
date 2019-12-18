@@ -1,0 +1,3 @@
+/home/shimoda/CLionProjects/universal_installer_linux/build/CMakeFiles/rebuild_cache.dir
+/home/shimoda/CLionProjects/universal_installer_linux/build/CMakeFiles/universal_installer_linux.dir
+/home/shimoda/CLionProjects/universal_installer_linux/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+gcc -o upm main.c utilities.c get_system_name.c Systems/APT.c Systems/Portage.c Commands/help.c
