@@ -16,15 +16,7 @@ since the search command will issue the default PM search command, the differenc
 
 some command will work on every distro, some will not, and for some will will be a workaround.
 
-every help is granted and willed.
-
-anyone can or may partecipate in this project.
-
-YOU are welcome.
-
-Please don't fork it, collaborate.
-
-Ask for permission, and i'll give it to you.
+any help is granted and willed.
 
 Thank you.
 
