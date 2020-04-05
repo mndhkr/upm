@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
         return 0;
     }
 
-    if(strcmp(system_name, "linuxmint") == 0) {
+    if(strcmp(system_name, "linuxmint") == 0 || strcmp(system_name, "ubuntu") == 0) {
         if(strcmp(command, "search") == 0) {
             apt_search(packages);
         }
